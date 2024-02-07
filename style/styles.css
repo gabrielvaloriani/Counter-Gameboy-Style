@@ -1,0 +1,136 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #797979, #dfdcdc);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.counter {
+  border: solid;
+  border-end-end-radius: 100px;
+  font-size: 120px;
+  width: 650px;
+  height: 800px;
+  background-color: rgb(216, 50, 50);
+}
+
+.display {
+  background-color: darkblue;
+  margin: 22px 35px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.output {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: darkslategrey;
+  color: #ffff;
+  height: 160px;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.current-operand {
+  padding-right: 15px;
+}
+
+
+.operators {
+  height: 63%;
+  display: flex;
+}
+
+.reset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+
+.reset-button {
+  height: 300px;
+  min-width: 150px;
+  font-size: 80px;
+  border-radius: 5px;
+}
+
+.operators-m-p {
+  border-left: solid ;
+  border-radius: 0 0 15px 0;
+  height: 101%;
+  width: 50%;
+  display:grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.plus {
+  margin-left: -80px;
+}
+
+.minus {
+  margin-right: -80px;
+}
+
+.plus, .minus {
+  font-size: 160px;
+  min-width: 150px;
+  height: 170px;
+  border-radius: 80px;
+}
+
+button:hover {
+  background-color: lightgrey; 
+  color: #ffffff;
+}
+
+button {
+  font-family: 'Protest Riot', sans-serif;
+}
+
+
+@media (max-width: 768px) {
+  .counter {
+    width: 300px;
+    height: auto;
+    font-size: 100px;
+  }
+
+  button {
+    width: auto; 
+    height: auto; 
+    font-size: 60px; 
+    margin: 10px; 
+    border-radius: 10px; 
+  }
+
+  .reset-button {
+    height: 170px; 
+    min-width: 100px; 
+    font-size: 40px; 
+  }
+
+  .plus, .minus {
+    font-size: 100px; 
+    height: 100px; 
+    min-width: 80px; 
+  }
+
+  .plus {
+    margin-left: -20px;
+  }
+
+  .minus {
+    margin-right: -20px;
+  }
+
+}
+
+
