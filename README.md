@@ -1,5 +1,10 @@
 # Counter-gameboy-style
 
+
+![Project Image](/assets/Counter.PNG)
+
+</br>
+
 ![Project Image](/assets/gmaeboy.jpg)
 
 > This is a counter with a style that takes inspiration from the famous Gameboy like this one above!
