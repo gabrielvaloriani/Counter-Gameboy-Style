@@ -87,12 +87,14 @@ body {
 }
 
 button:hover {
-  background-color: lightgrey; 
+  background-color: rgb(87, 87, 87); 
   color: #ffffff;
 }
 
 button {
   font-family: 'Protest Riot', sans-serif;
+  background-color: black;
+  color: white;
 }
 
 
