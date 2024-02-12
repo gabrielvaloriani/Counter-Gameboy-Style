@@ -55,6 +55,6 @@ The use is quite simple, there are 3 buttons:
 ## Author Info
 
 - Twitter - [@GabrielValorianiFranco](https://twitter.com/GabrielValoria)
-- Linekind - [GabrielValoriani](https://www.linkedin.com/in/gabriel-valoriani-9971a3291/)
+- Linkedin - [GabrielValoriani](https://www.linkedin.com/in/gabriel-valoriani-9971a3291/)
 
 [Back To The Top](#counter-gameboy-style)
