@@ -45,7 +45,7 @@ The use is quite simple, there are 3 buttons:
 #### API Reference
 
 ```javascript
-    const counterGameboy = "preaty cool!!"
+    const counterGameboy = "pretty cool!!"
 ```
 [Back To The Top](#counter-gameboy-style)
 
