@@ -1,7 +1,7 @@
 # Counter-gameboy-style
 
 
-![Project Image](/assets/Counter.PNG)
+![Project Image](/assets/Counter.png)
 
 </br>
 
