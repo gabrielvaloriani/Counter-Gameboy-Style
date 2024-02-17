@@ -5,7 +5,7 @@
 
 </br>
 
-![Project Image](/assets/gameboy.jpg)
+![Project Image](/assets/gameboywithoutbackground.png)
 
 > This is a counter with a style that takes inspiration from the famous Gameboy like this one above!
 ---
